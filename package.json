@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      "react-native-vector-icons@6.6.0",
+      "/Users/qwertypnk/boilerplate/client"
+    ]
+  ],
+  "_from": "https://github.com/qwertypnk/mock-react-native-vector-icons/tarball/master",
+  "_id": "react-native-vector-icons@6.6.0",
+  "_inBundle": false,
+  "_integrity": "sha512-NvvirNE3UlzDc3pnbBLOr5xmDDY33/EP7OIf1qXsA6r9BuTY0Uo8a01ms/gBaNQocc2gxH4nHnsvPGfG87LsDA==",
+  "_location": "/mock-react-native-vector-icons",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "mock-react-native-vector-icons@https://github.com/qwertypnk/mock-react-native-vector-icons/tarball/master",
+    "name": "mock-react-native-vector-icons",
+    "escapedName": "mock-react-native-vector-icons",
+    "rawSpec": "https://github.com/qwertypnk/mock-react-native-vector-icons/tarball/master",
+    "saveSpec": "https://github.com/qwertypnk/mock-react-native-vector-icons/tarball/master",
+    "fetchSpec": "https://github.com/qwertypnk/mock-react-native-vector-icons/tarball/master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://github.com/qwertypnk/mock-react-native-vector-icons/tarball/master",
+  "_shasum": "c43d7363bae5e45bb16218c032dea29c9de8d2b7",
+  "_spec": "mock-react-native-vector-icons@https://github.com/qwertypnk/mock-react-native-vector-icons/tarball/master",
+  "_where": "/Users/qwertypnk/boilerplate/client",
+  "author": {
+    "name": "Joel Arvidsson",
+    "email": "joel@oblador.se"
+  },
+  "bin": {
+    "fa5-upgrade": "./bin/fa5-upgrade.sh",
+    "generate-icon": "./bin/generate-icon.js"
+  },
+  "bugs": {
+    "url": "https://github.com/oblador/react-native-vector-icons/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.0.0",
+    "prop-types": "^15.6.2",
+    "yargs": "^13.2.2"
+  },
+  "deprecated": false,
+  "description": "Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.",
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@mdi/font": "^3.6.95",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-config-prettier": "^4.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.11.0",
+    "evil-icons": "^1.10.1",
+    "feather-icons": "^4.21.0",
+    "font-awesome": "^4.6.3",
+    "fontisto": "^3.0.4",
+    "ionicons": "^4.0.0",
+    "material-design-icons": "^3.0.1",
+    "metro-react-native-babel-preset": "0.47.0",
+    "octicons": "^8.4.1",
+    "prettier": "^1.16.4"
+  },
+  "homepage": "https://github.com/oblador/react-native-vector-icons",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "osx",
+    "windows",
+    "macos",
+    "ui",
+    "icon",
+    "icons",
+    "vector",
+    "retina",
+    "font"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "react-native-vector-icons",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oblador/react-native-vector-icons.git"
+  },
+  "version": "6.6.0"
+}
